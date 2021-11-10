@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+<Plugin> 
+    <Information>
+    <Name>WordGuesser</Name>
+        <Author>Henna</Author>
+        <Version>1.0.0</Version>
+        <Image>WordGuesser/Images/icon.tga</Image>
+<Description>
+DESCRIPTION
+¯¯¯¯¯¯¯¯¯¯¯
+Minigame for guessing words from random letters.
+</Description>
+    </Information>
+    <Package>WordGuesser.Compiler</Package>
+    <Configuration Apartment = "WordGuesser" />
+</Plugin>
